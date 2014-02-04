@@ -1,7 +1,14 @@
 # Qllect non-technical Whitepaper
 
+## A crypto currency backed by creative assets.
+## Non-technical whitepaper
+
+Hubert Gertis - hubert@gert.is 
+
+---
+
 ## Abstract
--
+
 Crypto currencies like Bitcoin are not just monetary instruments. 
 Using them as cryptographic tokens for other assets is probably the most fascinating aspect. 
 Examples for technical platforms going into this direction would be Colored Coins, Mastercoin, the freshly started Ethereum, Bitshares, Nxt, and others. 
@@ -14,6 +21,8 @@ We will do this by enhancing an existing crypto currency platform to issue a new
 This new currency will be the unit of accounting for all creative assets issued as limited editions.
 
 * In this paper we will discuss the non-technical implementation of the QLC and some of its use cases. 
+
+---
 
 ## Background
 
@@ -94,6 +103,8 @@ As the example of Bitcoin shows, token based systems are so effective in becomin
 Decentralized Applications have an inherent business model, with all participants becoming a part of the value  creation process. 
 
 Compare this to a centralized model like Twitter, where the value creation is mostly user-side, but the financial upside (if any) is locked up in a distant company.
+
+---
 
 ## Introducing: Qllect
 
@@ -198,6 +209,7 @@ A typical trading chain could look like this:
    - Katy gets percentage
   b. Paul receives the asset
 
+---
 
 ## Restricted issuing
 A typical Bitcoin-related regulation would by KYC/AML: Know Your Customer, Anti Money Laundering. 
@@ -212,6 +224,8 @@ But if Gustave would be a fraudulently made up entity, this threat would be vain
 In the long run, the authorization process could become an increasingly automated process, e.g. by working with services like BlockScore and other partners, and enable virtually everybody to issue editions of their images, recordings, writings, of their creative works. 
 * Qllect itself may be a trustless system. But the issuing part always involves trust into the issuing party. This is not a flaw. It is an inherent quality of the system.
 
+---
+
 ## Exchange
 
 Basically, it is a separate problem. 
@@ -223,6 +237,8 @@ As a first step, crypto currency exchanges would have to be found, so buyer Pete
 But the less friction, the better. So in a next step, buying and selling with currencies like EUR or USD will have to be enabled.
 
 This might look like a very good use case for the Ripple network.
+
+---
 
 ## Technical Background
 
