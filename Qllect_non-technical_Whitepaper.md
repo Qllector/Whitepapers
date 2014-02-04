@@ -147,6 +147,89 @@ After settling the monetary base, assets will be created on top.
 
 * The QLC will be an asset-backed crypto currency.
 
+### The main components and processes
+
+As a decentralized application, Qllect consists of two main parts, 
+
+* the creations issued as tradable crypto assets, 
+* and the currency backed by the crypto assets, as the host of the blockchain and internal unit of account.
+
+#### The crypto asset
+
+The crypto asset is the digital representation of a creative work of an identifiable issuer. 
+
+##### Creation of a crypto asset
+
+An identifiable issuer may create a limited edition of a creative work he has the rights to work with. 
+The hash of certain meta data is written in the blockchain, to 
+* make the underlying creation uniquely identifiable, 
+* make the issuer of the asset uniquely identifiable,
+* store some basic information about the underlying asset, like
+** creator
+** category of work
+** ...
+* store some core information on the crypto asset itself, like
+** size of edition
+** initial price
+
+#### Transferring a crypto asset
+
+The crypto asset is transferred from one QLC address to another.  
+There will be a small network fee and a probably larger creator’s fee, going back to the issuer/creator of the underlying work. Both fees would be non-obligatory, but - as within Bitcoin - highly encouraged.
+
+This chained payment has several effects: 
+* For the creator, the appreciation of his work will pay out. 
+** This minimizes the incentive to dilute the existing edition with new releases,
+** thereby protecting the value for the original collector, 
+** who might even have an additional incentive to hold on to his crypto asset.
+
+### The crypto currency (QLC)
+
+The QLC is the internal unit of account, the Qllect-blockchain holds all necessary data and information. 
+
+#### Process example
+A typical trading chain could look like this: 
+1. Katy issues a limited edition of 100
+2. Peter buys #1/100
+  a. Katy gets paid
+  b. Peter receives the asset
+3. Peter sells #1/100 to Paul
+  a. Peter gets paid
+   - Katy gets percentage
+  b. Paul receives the asset
+
+
+## Restricted issuing
+A typical Bitcoin-related regulation would by KYC/AML: Know Your Customer, Anti Money Laundering. 
+Even if they would be applicable on a collectibles market: most asset transactions should be way under the thresholds of any KYC/AML regulation.
+ 
+The real problem might be called Know Your Issuer (KYI), as the legitimacy of the issued edition is paramount for its further value.  
+If Gustave wants to sell you the Eiffel Tower, he better has the right to do this. 
+Basically, we hold it with Daniel Drew (1797-07-28 – 1879-09-18): 
+*He who sells what isn't his'n, must buy it back or go to pris'n.* 
+But if Gustave would be a fraudulently made up entity, this threat would be vain.
+
+In the long run, the authorization process could become an increasingly automated process, e.g. by working with services like BlockScore and other partners, and enable virtually everybody to issue editions of their images, recordings, writings, of their creative works. 
+* Qllect itself may be a trustless system. But the issuing part always involves trust into the issuing party. This is not a flaw. It is an inherent quality of the system.
+
+## Exchange
+
+Basically, it is a separate problem. 
+But without fungibility, the QLC just stays an internal unit of account. 
+Having lots of karma points might make you feel better, but never filled anybody’s fridge.
+
+As a first step, crypto currency exchanges would have to be found, so buyer Peter can converts crypto currencies like BTC in QLC.
+
+But the less friction, the better. So in a next step, buying and selling with currencies like EUR or USD will have to be enabled.
+
+This might look like a very good use case for the Ripple network.
+
+## Technical Background
+
+We do not plan to reinvent the wheel. 
+We will work with existing platforms and, if necessary, retool them for our needs. 
+
+The implementation details will be discussed in a separate technical whitepaper.
 
 current location of complete document:
 https://docs.google.com/document/d/1tR0SYsTBwAOK1mCEl_OCEDtsFDW40gqYp0WBR5DPRNQ/edit?usp=sharing
