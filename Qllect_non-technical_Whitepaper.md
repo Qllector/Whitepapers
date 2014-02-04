@@ -1,7 +1,8 @@
 # Qllect non-technical Whitepaper
 
-## A crypto currency backed by creative assets.
-## Non-technical whitepaper
+** A crypto currency backed by creative assets.**
+**Non-technical whitepaper**
+Version 0.9
 
 Hubert Gertis - hubert@gert.is 
 
@@ -250,6 +251,7 @@ The implementation details will be discussed in a separate technical whitepaper.
 current location of complete document:
 https://docs.google.com/document/d/1tR0SYsTBwAOK1mCEl_OCEDtsFDW40gqYp0WBR5DPRNQ/edit?usp=sharing
 
+---
 
 ## Appendix
 
