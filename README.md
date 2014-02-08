@@ -1,7 +1,11 @@
 Whitepapers
 ===========
 
-The Qllect Whitepapers.
+**The Qllect Whitepapers.**
 
-Discussion happens here:
+The Qllect (QLC) will be a creative asset backed cryptocurrency.
+
+
+
+Discussions happen here:
 https://groups.google.com/forum/#!forum/qllect
