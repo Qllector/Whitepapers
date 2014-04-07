@@ -17,17 +17,17 @@ https://groups.google.com/forum/#!forum/qllect
 ## Abstract
 
 Crypto currencies like Bitcoin are not just monetary instruments. 
-Using them as cryptographic tokens for other assets is probably their most fascinating aspect. 
+Using them as cryptographic tokens for other assets is one of their most fascinating aspects. 
 Examples for technical platforms going into this direction would be Colored Coins, Mastercoin, the freshly started Ethereum, Bitshares, Nxt, and others. 
 
 * We want to use crypto currency technologies to kickstart a new economy of creative assets. 
 * We combine the traditional model of the limited edition with the unlimited access the Internet can offer. 
 * We introduce the crypto based model of *digital scarcity* as a new way to add financial value to the human values which the arts, music, or even open source software already freely transfer. 
 
-We will do this by enhancing an existing crypto currency platform to issue a new currency, the Qllect (QLC). 
+We will do this by enhancing an existing crypto currency platform to issue a new currency, the Qllect (XQT). 
 This new currency will be the unit of accounting for all creative assets issued as limited editions.
 
-* In this paper we will discuss the non-technical implementation of the QLC and some of its use cases. 
+* In this paper we will discuss the non-technical implementation of the XQT and some of its use cases. 
 
 ---
 
@@ -69,7 +69,7 @@ No copies.
 No double spending. 
 No unmanageable central ledger to safeguard that.
 
-* With the QLC, we introduce the model of digital scarcity into the creative world.
+* With the XQT, we introduce the model of digital scarcity into the creative world.
 
 ### A mutual creation of value
 
@@ -98,7 +98,7 @@ If you collect, you’re part of a community, which appreciates and determines t
 That’s what makes it really close to investing (it’s just not only about financial values), and at the same time that’s what makes the difference to hoarding. 
 You hoard alone, just for yourself. 
 
-The QLC not only enables digital scarcity. 
+The XQT not only enables digital scarcity. 
 It creates a digital bond between creator and collector. 
 
 * If creator and collector choose so, the crypto asset is not just about ownership, but a token to start a closer relationship.
@@ -129,7 +129,7 @@ He pays with whichever currency seems conveniently accepted and receives ownersh
 
 ### Why a new crypto currency?
 
-So what is the the QLC and why is it necessary? 
+So what is the the XQT and why is it necessary? 
 Bitcoin and other crypto currencies offer already the trustless networks to safely transfer digital representations of property. 
 It’s even possible to write the hash of the underlying creation into the blockchain. 
 With the size of the underlying network, the Bitcoin blockchain would offer by far the securest approach to story crypto assets.
@@ -140,30 +140,30 @@ Further developments regarding the Bitcoin core technologies might seriously imp
 
 * This risk drives the decision to create a new crypto currency, which should be as closely as possible aligned to the existing Bitcoin ecosystem. 
 
-### The QLC as a crypto currency
+### The XQT as a crypto currency
 
-Technically, the QLC will work on the same principles as Bitcoin or any other crypto currency. 
+Technically, the XQT will work on the same principles as Bitcoin or any other crypto currency. 
 As a currency, it will be constructed quite differently: 
 
-1. The primary use case of the QLC will be “internal unit of account”.
-2. The QLC will be asset-backed, with the issued editions being the assets.
+1. The primary use case of the XQT will be “internal unit of account”.
+2. The XQT will be asset-backed, with the issued editions being the assets.
 
-As creativity is infinite, there will be no hard limit on the number of possible QLCs. 
+As creativity is infinite, there will be no hard limit on the number of possible XQTs. 
 A precedent for that would be Peercoin. 
-But as the QLC will be asset-backed, the number of actual QLCs will be correlated to the nominal QLC value of the newly issued editions at their primary sale, on top of a monetary base. 
+But as the XQT will be asset-backed, the number of actual XQTs will be correlated to the nominal XQT value of the newly issued editions at their primary sale, on top of a monetary base. 
 
-This coupling mechanism will help to stabilize the QLC as a unit of account. 
+This coupling mechanism will help to stabilize the XQT as a unit of account. 
 
 At the same time, let’s not forget: we’re talking collectibles here. 
 The liquidity of most assets will be rather low. 
-With the QLC as the mutual accounting unit, an appreciation in value of the creative assets could be driven by network effects. 
+With the XQT as the mutual accounting unit, an appreciation in value of the creative assets could be driven by network effects. 
 For fine art investments, the long term return rates are (depending on how you count) slightly above or below stocks. 
-If the basket of editions backing the QLC behaves comparably, the QLC should mirror this, like an asset based ETF based on a stock index mirrors the stock index.
+If the basket of editions backing the XQT behaves comparably, the XQT should mirror this, like an asset based ETF based on a stock index mirrors the stock index.
 
-In the beginning, there will be a timed window to create and distribute the monetary base, and allow for some initial price finding for the QLC. 
+In the beginning, there will be a timed window to create and distribute the monetary base, and allow for some initial price finding for the XQT. 
 After settling the monetary base, assets will be created on top.
 
-* The QLC will be an asset-backed crypto currency.
+* The XQT will be an asset-backed crypto currency.
 
 ### The main components and processes
 
@@ -192,7 +192,7 @@ The hash of certain meta data is written in the blockchain, to
 
 #### Transferring a crypto asset
 
-The crypto asset is transferred from one QLC address to another.  
+The crypto asset is transferred from one XQT address to another.  
 There will be a small network fee and a probably larger creator’s fee, going back to the issuer/creator of the underlying work. Both fees would be non-obligatory, but - as within Bitcoin - highly encouraged.
 
 This chained payment has several effects: 
@@ -201,9 +201,9 @@ This chained payment has several effects:
 ** thereby protecting the value for the original collector, 
 ** who might even have an additional incentive to hold on to his crypto asset.
 
-### The crypto currency (QLC)
+### The crypto currency (XQT)
 
-The QLC is the internal unit of account, the Qllect-blockchain holds all necessary data and information. 
+The XQT is the internal unit of account, the Qllect-blockchain holds all necessary data and information. 
 
 #### Process example
 A typical trading chain could look like this: 
@@ -236,10 +236,10 @@ In the long run, the authorization process could become an increasingly automate
 ## Exchange
 
 Basically, it is a separate problem. 
-But without fungibility, the QLC just stays an internal unit of account. 
+But without fungibility, the XQT just stays an internal unit of account. 
 Having lots of karma points might make you feel better, but never filled anybody’s fridge.
 
-As a first step, crypto currency exchanges would have to be found, so buyer Peter can converts crypto currencies like BTC in QLC.
+As a first step, crypto currency exchanges would have to be found, so buyer Peter can converts crypto currencies like BTC in XQT.
 
 But the less friction, the better. So in a next step, buying and selling with currencies like EUR or USD will have to be enabled.
 
