@@ -8,6 +8,8 @@ Version 0.9.2
 
 Hubert Gertis - hubert@gert.is
 
+http://www.qllector.org
+
 Please discuss it here: 
 
 https://groups.google.com/forum/#!forum/qllect
